@@ -40,9 +40,9 @@
   * ~~[Azure Kubernetes Service (AKS) (including the service principal option)](https://docs.microsoft.com/en-us/azure/aks/intro-kubernetes)~~
   * ~~[Quickstart: Deploy an Azure Kubernetes Service (AKS) cluster using the Azure CLI](https://docs.microsoft.com/en-us/azure/aks/kubernetes-walkthrough)~~
   
-* ~~Create container images for solutions
+* ~~Create container images for solutions~~
   * ~~[Tutorial: Create a container image for deployment to Azure Container Instances](https://docs.microsoft.com/en-us/azure/container-instances/container-instances-tutorial-prepare-app)~~
-* ~~Publish an image to the Azure Container Registry
+* ~~Publish an image to the Azure Container Registry~~
   * ~~[Tutorial: Deploy an Azure container registry and push a container image](https://docs.microsoft.com/en-us/azure/container-instances/container-instances-tutorial-prepare-acr)~~
 * ~~Run containers by using Azure Container Instance or AKS
   * [Tutorial: Deploy a container application to Azure Container Instances](https://docs.microsoft.com/en-us/azure/container-instances/container-instances-tutorial-deploy-app)
