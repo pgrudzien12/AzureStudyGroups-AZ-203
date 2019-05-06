@@ -36,7 +36,7 @@
 ## Create containerized solutions
 * ~~Know how to use the [CLI at least for basic management of ACR](https://docs.microsoft.com/en-us/azure/container-registry/container-registry-get-started-azure-cli)~~
 * ~~[Create an Azure Container Registry, create, prep, and push images to it](https://docs.microsoft.com/en-us/azure/container-instances/container-instances-tutorial-prepare-acr)~~
-* ~~Create an Azure Managed Kubernetes Service (AKS) cluster 
+* ~~Create an Azure Managed Kubernetes Service (AKS) cluster ~~
   * ~~[Azure Kubernetes Service (AKS) (including the service principal option)](https://docs.microsoft.com/en-us/azure/aks/intro-kubernetes)~~
   * ~~[Quickstart: Deploy an Azure Kubernetes Service (AKS) cluster using the Azure CLI](https://docs.microsoft.com/en-us/azure/aks/kubernetes-walkthrough)~~
   
@@ -44,6 +44,6 @@
   * ~~[Tutorial: Create a container image for deployment to Azure Container Instances](https://docs.microsoft.com/en-us/azure/container-instances/container-instances-tutorial-prepare-app)~~
 * ~~Publish an image to the Azure Container Registry~~
   * ~~[Tutorial: Deploy an Azure container registry and push a container image](https://docs.microsoft.com/en-us/azure/container-instances/container-instances-tutorial-prepare-acr)~~
-* ~~Run containers by using Azure Container Instance or AKS
+* ~~Run containers by using Azure Container Instance or AKS~~
   * [Tutorial: Deploy a container application to Azure Container Instances](https://docs.microsoft.com/en-us/azure/container-instances/container-instances-tutorial-deploy-app)
   * ~~[Quickstart: Deploy an Azure Kubernetes Service (AKS) cluster using the Azure portal](https://docs.microsoft.com/en-us/azure/aks/kubernetes-walkthrough-portal) ~~
