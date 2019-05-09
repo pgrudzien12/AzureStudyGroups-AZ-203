@@ -27,10 +27,10 @@
     * [API Management policy samples](https://docs.microsoft.com/en-us/azure/api-management/policy-samples)
 ## Develop event-based solutions 
 ~~[Choose between Azure messaging services - Event Grid, Event Hubs, and Service Bus](https://docs.microsoft.com/en-us/azure/event-grid/compare-messaging-services)~~
-* Implement solutions that use Azure Event Grid
-    * [Quickstart: Route Blob storage events to web endpoint with the Azure portal](https://docs.microsoft.com/en-us/azure/event-grid/blob-event-quickstart-portal)
-    * [Quickstart: Route storage events to web endpoint with PowerShell](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blob-event-quickstart-powershell?toc=%2fazure%2fevent-grid%2ftoc.json)
-    * [Quickstart: Route storage events to web endpoint with Azure CLI](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blob-event-quickstart?toc=%2fazure%2fevent-grid%2ftoc.json)
+* ~~Implement solutions that use Azure Event Grid~~
+    * ~~[Quickstart: Route Blob storage events to web endpoint with the Azure portal](https://docs.microsoft.com/en-us/azure/event-grid/blob-event-quickstart-portal)~~
+    * ~~[Quickstart: Route storage events to web endpoint with PowerShell](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blob-event-quickstart-powershell?toc=%2fazure%2fevent-grid%2ftoc.json)~~
+    * ~~[Quickstart: Route storage events to web endpoint with Azure CLI](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blob-event-quickstart?toc=%2fazure%2fevent-grid%2ftoc.json)~~
 * Implement solutions that use Azure Notification Hubs
     * [Create an Azure notification hub in the Azure portal](https://docs.microsoft.com/en-us/azure/notification-hubs/create-notification-hub-portal)
     * [Set up push notifications in a notification hub in the Azure portal](https://docs.microsoft.com/en-us/azure/notification-hubs/configure-notification-hub-portal-pns-settings)
