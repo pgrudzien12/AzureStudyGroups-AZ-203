@@ -16,15 +16,15 @@
     * [How to compose a query in Azure Search](https://docs.microsoft.com/en-us/azure/search/search-query-overview)
     * [Lucene query syntax in Azure Search](https://docs.microsoft.com/en-us/azure/search/query-lucene-syntax)
 ## Establish API Gateways 
-* Create an APIM instance
-    * [Create a new Azure API Management service instance](https://docs.microsoft.com/en-us/azure/api-management/get-started-create-service-instance)
-    * [Create a new Azure API Management service instance](https://docs.microsoft.com/en-us/azure/api-management/powershell-create-service-instance)
+* ~~Create an APIM instance~~
+    * ~~[Create a new Azure API Management service instance](https://docs.microsoft.com/en-us/azure/api-management/get-started-create-service-instance)~~
+    * ~~[Create a new Azure API Management service instance](https://docs.microsoft.com/en-us/azure/api-management/powershell-create-service-instance)~~
 * Configure authentication for APIs
-    * [How to secure back-end services using client certificate authentication in Azure API Management](https://docs.microsoft.com/en-us/azure/api-management/api-management-howto-mutual-certificates)
-    * [Authorize developer accounts by using Azure Active Directory in Azure API Management](https://docs.microsoft.com/en-us/azure/api-management/api-management-howto-aad)
+    * ~~[How to secure back-end services using client certificate authentication in Azure API Management](https://docs.microsoft.com/en-us/azure/api-management/api-management-howto-mutual-certificates)~~
+    * ~~[Authorize developer accounts by using Azure Active Directory in Azure API Management](https://docs.microsoft.com/en-us/azure/api-management/api-management-howto-aad)~~
 * Define policies for APIs
-    * [Policies in Azure API Management](https://docs.microsoft.com/en-us/azure/api-management/api-management-howto-policies)
-    * [API Management policy samples](https://docs.microsoft.com/en-us/azure/api-management/policy-samples)
+    * ~~[Policies in Azure API Management](https://docs.microsoft.com/en-us/azure/api-management/api-management-howto-policies)~~
+    * ~~[API Management policy samples](https://docs.microsoft.com/en-us/azure/api-management/policy-samples)~~
 ## Develop event-based solutions 
 ~~[Choose between Azure messaging services - Event Grid, Event Hubs, and Service Bus](https://docs.microsoft.com/en-us/azure/event-grid/compare-messaging-services)~~
 * ~~Implement solutions that use Azure Event Grid~~
