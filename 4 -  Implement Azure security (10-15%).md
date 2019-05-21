@@ -28,10 +28,10 @@ You may want to consider taking the [Microsoft Implementing Authentication and S
     * ~~[Tutorial: Grant a user access to Azure resources using RBAC and Azure PowerShell](https://docs.microsoft.com/en-us/azure/role-based-access-control/tutorial-role-assignments-user-powershell)~~
     * [Tutorial: Create a custom role for Azure resources using Azure CLI](https://docs.microsoft.com/en-us/azure/role-based-access-control/tutorial-custom-role-cli)
     * Complete all five tutorials
-* Create shared access signatures
-    * [Using shared access signatures (SAS)](https://docs.microsoft.com/en-us/azure/storage/common/storage-dotnet-shared-access-signature-part-1)
-    * [Shared Access Signatures, Part 2: Create and use a SAS with Blob storage](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-dotnet-shared-access-signature-part-2)
-    * [Getting Started with Shared Access Signatures (SAS)](https://azure.microsoft.com/en-us/resources/samples/storage-dotnet-sas-getting-started/)
+* ~~Create shared access signatures~~
+    * ~~[Using shared access signatures (SAS)](https://docs.microsoft.com/en-us/azure/storage/common/storage-dotnet-shared-access-signature-part-1)~~
+    * ~~[Shared Access Signatures, Part 2: Create and use a SAS with Blob storage](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-dotnet-shared-access-signature-part-2)~~
+    * ~~[Getting Started with Shared Access Signatures (SAS)](https://azure.microsoft.com/en-us/resources/samples/storage-dotnet-sas-getting-started/)~~
 
 ## Implement secure data solutions 
 * Encrypt and decrypt data at rest and in transit
