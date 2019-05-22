@@ -8,8 +8,8 @@
 ## Integrate Azure Search within solutions 
 * ~~Create an Azure Search index ~~
     * ~~[Create an Azure Search service in the portal](https://docs.microsoft.com/en-us/azure/search/search-create-service-portal)~~
-    * ~~[Quickstart: 1 - Create an Azure Search index in C#](https://docs.microsoft.com/en-us/azure/search/search-create-index-dotnet)
-* Import searchable data~~
+    * ~~[Quickstart: 1 - Create an Azure Search index in C#](https://docs.microsoft.com/en-us/azure/search/search-create-index-dotnet)~~
+* Import searchable data
     * [Import data wizard for Azure Search](https://docs.microsoft.com/en-us/azure/search/search-import-data-portal)
     * [Data import overview - Azure Search](https://docs.microsoft.com/en-us/azure/search/search-what-is-data-import)
 * Query the Azure Search index 
