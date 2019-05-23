@@ -14,8 +14,8 @@
     * ~~[Quickstart: Use Azure Cache for Redis with a .NET application](https://docs.microsoft.com/en-us/azure/azure-cache-for-redis/cache-dotnet-how-to-use-azure-redis-cache)~~
     * ~~[Quickstart: Create an ASP.NET web app](https://docs.microsoft.com/en-us/azure/azure-cache-for-redis/cache-web-app-howto)~~
 * Develop code to implement CDNs in solutions
-    * [Quickstart: Create an Azure CDN profile and endpoint using Resource Manager template](https://docs.microsoft.com/en-us/azure/cdn/create-profile-resource-manager-template)
-    * [Tutorial: Add Azure CDN to an Azure App Service web app](https://docs.microsoft.com/en-us/azure/cdn/cdn-add-to-web-app)
+    * ~~[Quickstart: Create an Azure CDN profile and endpoint using Resource Manager template](https://docs.microsoft.com/en-us/azure/cdn/create-profile-resource-manager-template)~~
+    * ~~[Tutorial: Add Azure CDN to an Azure App Service web app](https://docs.microsoft.com/en-us/azure/cdn/cdn-add-to-web-app)~~
 * [Invalidate cache content (CDN or Redis)](https://docs.microsoft.com/en-us/azure/architecture/best-practices/caching)
 ## Instrument solutions to support monitoring and logging 
 * Configure instrumentation in an app or service by using Application Insights
