@@ -34,10 +34,10 @@ You may want to consider taking the [Microsoft Implementing Authentication and S
     * ~~[Getting Started with Shared Access Signatures (SAS)](https://azure.microsoft.com/en-us/resources/samples/storage-dotnet-sas-getting-started/)~~
 
 ## Implement secure data solutions 
-* Encrypt and decrypt data at rest and in transit
-    * [Define data protection strategy for your hybrid identity solution](https://docs.microsoft.com/en-us/azure/active-directory/hybrid/plan-hybrid-identity-design-considerations-data-protection-strategy)
-* Create, read, update, and delete keys, secrets, and certificates by using the KeyVault API
-    * [What is Azure Key Vault?](https://docs.microsoft.com/en-us/azure/key-vault/key-vault-overview)
-    * [Azure Key Vault Developer's Guide](https://docs.microsoft.com/en-us/azure/key-vault/key-vault-developers-guide)
+* ~~Encrypt and decrypt data at rest and in transit~~
+    * ~~[Define data protection strategy for your hybrid identity solution](https://docs.microsoft.com/en-us/azure/active-directory/hybrid/plan-hybrid-identity-design-considerations-data-protection-strategy)~~
+* ~~Create, read, update, and delete keys, secrets, and certificates by using the KeyVault API~~
+    * ~~[What is Azure Key Vault?](https://docs.microsoft.com/en-us/azure/key-vault/key-vault-overview)~~
+    * ~~[Azure Key Vault Developer's Guide](https://docs.microsoft.com/en-us/azure/key-vault/key-vault-developers-guide)~~
 
 
