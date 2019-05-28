@@ -8,16 +8,16 @@
 * ~~[Enable diagnostics logging](https://docs.microsoft.com/en-us/azure/app-service/troubleshoot-diagnostic-logs)~~
 
 ## Create Azure App Service mobile apps 
-* !![About Mobile Apps in Azure App Service](https://docs.microsoft.com/en-us/azure/app-service-mobile/app-service-mobile-value-prop)
-* Add push notifications for mobile apps!!
-    * [Add push notifications to your Android app](https://docs.microsoft.com/en-us/azure/app-service-mobile/app-service-mobile-android-get-started-push)
-    * [Add Push Notifications to your iOS App](https://docs.microsoft.com/en-us/azure/app-service-mobile/app-service-mobile-ios-get-started-push)
-* Enable offline sync for mobile app
-    * [Enable offline sync for your Android mobile app](https://docs.microsoft.com/en-us/azure/app-service-mobile/app-service-mobile-android-get-started-offline-data)
-    * [Enable offline syncing with iOS mobile apps](https://docs.microsoft.com/en-us/azure/app-service-mobile/app-service-mobile-ios-get-started-offline-data)
-* Implement a remote instrumentation strategy for mobile devices
+* ~~[About Mobile Apps in Azure App Service](https://docs.microsoft.com/en-us/azure/app-service-mobile/app-service-mobile-value-prop)
+* Add push notifications for mobile apps~~
+    * ~~[Add push notifications to your Android app](https://docs.microsoft.com/en-us/azure/app-service-mobile/app-service-mobile-android-get-started-push)~~
+    * ~~[Add Push Notifications to your iOS App](https://docs.microsoft.com/en-us/azure/app-service-mobile/app-service-mobile-ios-get-started-push)~~
+* ~~Enable offline sync for mobile app~~
+    * ~~[Enable offline sync for your Android mobile app](https://docs.microsoft.com/en-us/azure/app-service-mobile/app-service-mobile-android-get-started-offline-data)~~
+    * ~~[Enable offline syncing with iOS mobile apps](https://docs.microsoft.com/en-us/azure/app-service-mobile/app-service-mobile-ios-get-started-offline-data)~~
+* ~~Implement a remote instrumentation strategy for mobile devices~~
     * ~~[Enable diagnostics logging for apps in Azure App Service](https://docs.microsoft.com/en-us/azure/app-service/troubleshoot-diagnostic-logs)~~
-    * [Troubleshoot an app in Azure App Service using Visual Studio](https://docs.microsoft.com/en-us/azure/app-service/troubleshoot-dotnet-visual-studio?toc=%2fazure%2fapp-service-mobile%2ftoc.json)
+    * ~~[Troubleshoot an app in Azure App Service using Visual Studio](https://docs.microsoft.com/en-us/azure/app-service/troubleshoot-dotnet-visual-studio?toc=%2fazure%2fapp-service-mobile%2ftoc.json)~~
 
 ## Create Azure App Service API apps 
 * ~~Create an Azure App Service API app~~
@@ -26,7 +26,7 @@
 * ~~Create documentation for the API by using open source and other tools~~
     * ~~[Modify the content and layout of pages on the developer portal in Azure API Management](https://docs.microsoft.com/en-us/azure/api-management/api-management-modify-content-layout)~~
     * ~~[Customize the style of the Developer portal pages](https://docs.microsoft.com/en-us/azure/api-management/api-management-customize-styles)~~
-## Implement Azure functions 
+## ~~Implement Azure functions~~
 * ~~[An introduction to Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview)~~
 * ~~Implement input and output bindings for a function~~
     * ~~[Azure Functions triggers and bindings concepts](https://docs.microsoft.com/en-us/azure/azure-functions/functions-triggers-bindings)~~
